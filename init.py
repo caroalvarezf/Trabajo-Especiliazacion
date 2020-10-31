@@ -1,5 +1,5 @@
-course_id = 'Trabajo-Especializacion'
-github_repo = caroalvarezf
+course_id = 'Trabajo-Especiliazacion'
+github_repo = 'caroalvarezf/%s'%course_id
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
 
 def get_last_modif_date(localdir):
